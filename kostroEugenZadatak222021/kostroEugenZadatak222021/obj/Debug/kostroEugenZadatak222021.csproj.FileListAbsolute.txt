@@ -1,0 +1,7 @@
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak222021\kostroEugenZadatak222021\bin\Debug\kostroEugenZadatak222021.exe.config
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak222021\kostroEugenZadatak222021\bin\Debug\kostroEugenZadatak222021.exe
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak222021\kostroEugenZadatak222021\bin\Debug\kostroEugenZadatak222021.pdb
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak222021\kostroEugenZadatak222021\obj\Debug\kostroEugenZadatak222021.csprojAssemblyReference.cache
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak222021\kostroEugenZadatak222021\obj\Debug\kostroEugenZadatak222021.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak222021\kostroEugenZadatak222021\obj\Debug\kostroEugenZadatak222021.exe
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak222021\kostroEugenZadatak222021\obj\Debug\kostroEugenZadatak222021.pdb
